@@ -1,0 +1,180 @@
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>LazyOaf</title>
+
+    header {
+      width: 100%;
+  }
+  
+  header #box1 {
+      background-color: #01b1af;
+      margin: 0 auto;
+      width: 100%;
+      height: 45px;
+      vertical-align: middle;
+      font-family: Myanmar Text;
+      color: white;
+  }
+  
+  
+  a:hover {
+      text-decoration: none;
+      color: rgb(38, 156, 160);
+      font-weight: 700;
+  }
+  
+  /* ul li {
+      float: left;
+      margin: 0 5px;
+  } */
+  
+  /*Navigation Bar*/
+  #navbar {
+      display: flex;
+  }
+  
+  #logo {
+      flex: 1;
+  }
+  
+  #navigation {
+      flex: 5;
+      display: inline-flex;
+      justify-content: space-evenly;
+  
+  }
+  
+  #images {
+      flex: 2;
+      display: inline-flex;
+      justify-content: space-evenly;
+  }
+  
+  #images img {
+      width: 30px;
+  }
+  
+  #navbar ul {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+  
+  #navbar li {
+      margin: 0 5px;
+      font-size: 20px;
+      font-family: Gadugi;
+      font-weight: bolder;
+  }
+  
+  #navbar #explorer {
+      border-left: 2px solid;
+      margin: 0 10px;
+      font-size: 40px;
+  }
+  
+  
+  
+footer {
+  width: 100%;
+  height: 652px;
+  background-color: gold;
+  clear: both;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS'
+}
+
+
+
+#stay {
+  width: 100%;
+  height: 400px;
+  background-color: darksalmon;
+  float: left;
+}
+
+
+
+
+.alone {
+  width: 500px;
+  height: 200px;
+  margin: 0 0 0 30px;
+  background-color: darkgoldenrod;
+  float: left;
+  ;
+  ;
+}
+
+.away {
+  width: 261px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: aquamarine;
+  float: left;
+  margin: 0 0 0 20px;
+}
+
+
+
+.lover {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.well {
+  font-size: 13px;
+  text-align: left;
+}
+
+#together {
+  width: 500px;
+  height: 40px;
+  margin: 40px 0 0 40px;
+  background-color: hotpink;
+}
+
+#together img {
+  width: 30px;
+  margin: 0 0 0 20px;
+}
+
+#secure {
+  border-left: 2px solid;
+  padding: 0 20px;
+  box-sizing: content-box;
+}
+
+
+
+
+#connected .away {
+  margin: 15px 10px 0 0px;
+  padding: 0 20px 0 0;
+}
+
+#connected :nth-child(3) {
+  margin-top: 40px;
+  text-align: center;
+}
+
+
+.copyright {
+  font-size: 14pt;
+  font-weight: normal;
+}
+
+
+.yoohoo {
+  width: 50px;
+  position: relative;
+  right: -420px;
+  top: 22px;
+
+
+
+
